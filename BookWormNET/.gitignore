@@ -1,0 +1,15 @@
+# .NET build folders
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# App secrets
+appsettings.Development.json
+appsettings.Production.json
